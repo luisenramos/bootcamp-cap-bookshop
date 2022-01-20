@@ -1,11 +1,19 @@
 {
-  "manifest-bundle.zip": 1624380373804,
-  "utils/locate-reuse-libs.js": 1624378622131,
-  "manifest.json": 1624380373771,
-  "Component.js": 1624378622115,
-  "i18n/i18n.properties": 1624378622119,
-  "Component-preload.js": 1624380374531,
-  "utils/locate-reuse-libs-dbg.js": 1624378622131,
-  "Component-dbg.js": 1624378622115,
-  "index.html": 1624378622119
+  "images/book3.png": 1633281813358,
+  "utils/locate-reuse-libs.js": 1633281813366,
+  "manifest.json": 1633284166298,
+  "Component.js": 1633281813354,
+  "manifest-bundle.zip": 1633284166315,
+  "Component-preload.js": 1633284166607,
+  "Component-dbg.js": 1633281813354,
+  "utils/locate-reuse-libs-dbg.js": 1633281813366,
+  "images/book8.png": 1633281813362,
+  "images/book7.png": 1633281813361,
+  "images/book6.png": 1633281813360,
+  "images/book5.png": 1633281813359,
+  "images/book4.png": 1633281813358,
+  "i18n/i18n.properties": 1633281813355,
+  "images/book2.png": 1633281813357,
+  "images/book1.png": 1633281813356,
+  "index.html": 1633281813363
 }
