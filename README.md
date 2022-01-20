@@ -1,6 +1,6 @@
-# Welcome
+# Bookshop Solution for SAP BTP Developer Bootcamp - SAP Cloud Application Programming Model
 
-This project is developed for the purpose of a organised partner bootcamp. Participants may clone the repository, install/build & run on your local environment or (`recommended`) SAP Business Application Studio. It is a use case to illustrate a simple bookshop management solution extended to S/4HANA Cloud with SAP Cloud SDK. _**To deploy this successful, please make sure you've the prior knowledge of [CAP](https://cap.cloud.sap/) and HAVE attended the bootcamp session.**_ 
+This project is developed for the purpose of an organised partner bootcamp. Participants may clone the repository, install/build & run on your local environment or (`recommended`) SAP Business Application Studio. It is a use case to illustrate a simple bookshop management solution extended to S/4HANA Cloud with SAP Cloud SDK. _**To deploy this successful, please make sure you've the prior knowledge of [CAP](https://cap.cloud.sap/) and HAVE attended the bootcamp session.**_ 
 
 > Please note that even though S/4HANA Cloud is not a mandatory component, please adjust the code accordingly if you'd like to extend this use case further without S/4HANA Cloud. This project is developed with the intention to extend S/4HANA Cloud.
 
@@ -62,7 +62,7 @@ And please make sure you have both of these SAP BTP services setup successfully 
 ## Let's Get Started
 **Step 1:** Clone this Git Repo into a `bookshop` project folder.
 ```bash
-git clone https://github.com/jacobtan89/bootcamp-cap-bookshop.git bookshop
+git clone https://github.com/jacobahtan/bootcamp-cap-bookshop.git bookshop
 ```
 **Step 2:** Define a `unique app name` for your own Bookshop solution.
 
@@ -166,7 +166,7 @@ In this step, you will require a S/4 HANA Cloud instance for this to work. Thus,
 
 _Please note that the above destination name `S4HC` will be used in the Custom Logic file `Line 3` located in [srv/admin-service.js](srv/admin-service.js)._ Prior to that, please make sure you've done your own testing of calling the API with Postman to ensure that your credentials works.
 
-If you face a problem with the example application or the description, feel free to create an [issue](https://github.com/jacobtan89/bootcamp-cap-bookshop/issues).
+If you face a problem with the example application or the description, feel free to create an [issue](https://github.com/jacobahtan/bootcamp-cap-bookshop/issues).
 
 ## Common Issues Faced
 >MBT build Error: could not build the MTA project: could not execute the "make -f Makefile_20210721132444.mta p=cf mtar= strict=true mode= t=\"./\"" command: exec: "make": executable file not found in %PATH%
@@ -195,4 +195,4 @@ Learn more about the core concepts at [SAP Developer Tutorials on CAP Topic](
 
 ## License
 
-Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under SAP Sample Code License Agreement, except as noted otherwise in the [LICENSE](/LICENSE) file.
+Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under SAP Sample Code License Agreement, except as noted otherwise in the [LICENSE](/LICENSE) file.
